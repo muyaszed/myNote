@@ -11,4 +11,7 @@
 10. Create Authenticate user class and test
 11. Create Authentication Controller
 12. Configure routes for login
-13, Create user controller for sign up
+13, Create user controller and routes for sign up
+14. modify other test to include user association.
+15. impliment authorization in application controller.
+16. Impliment authorization exception for authentication and signing up.
